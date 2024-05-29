@@ -1,5 +1,4 @@
 ## Hi there, I'm Gusthavo Soares👋
-<hr>
 - Data science intership at Tribunal de Justiça do Rio Grande do Sul
 - Passionate about data science, machine learning, programming and languages
 
