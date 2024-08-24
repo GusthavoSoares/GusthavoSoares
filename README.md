@@ -2,6 +2,11 @@
 - Data science intership at Tribunal de Justiça do Rio Grande do Sul
 - Passionate about data science, machine learning, programming and languages
 
+## Education 🏫
+- Analysis and System Developer | FADERGS | 08/2023 - 12/2025
+- Software Engineering | Estácio | 01/2023 - 12/2027
+
+
 
 ##  ☎️ Contact
 <div>
