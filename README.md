@@ -3,7 +3,7 @@
 - Passionate about data science, machine learning, programming and languages
 
 ## Education 🏫
-- Analysis and System Developer | FADERGS | 08/2023 - 12/2025
+- Analysis and System Developement | FADERGS | 08/2023 - 12/2025
 - Software Engineering | Estácio | 01/2023 - 12/2027
 
 
