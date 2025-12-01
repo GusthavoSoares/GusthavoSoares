@@ -25,10 +25,4 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100" height="100" /> 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="100" height="100"/>
 </div>
-
-## ⚛️ Stats
-<div>
-<a href="https://github.com/GusthavoSoares">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusthavoSoares&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
