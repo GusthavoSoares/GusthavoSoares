@@ -1,10 +1,11 @@
 ## Hi there, I'm Gusthavo Soares👋
-- Data science intership at Tribunal de Justiça do Rio Grande do Sul
+- Power BI Analyst at Interop
 - Passionate about data science, machine learning, programming and languages
 
 ## Education 🏫
-- Analysis and System Developement | FADERGS | 08/2023 - 12/2025
-- Software Engineering | Estácio | 01/2023 - 12/2026
+- Postgraduate Specialization in Data Analytics | FIAP | 03/2026 - 11/2026 
+- Technologist in Systems Analysis and Development | FADERGS | 08/2023 - 12/2025 | Graduated
+- Bachelor’s Degree in Software Engineering | Estácio | 01/2023 - 12/2026
 
 
 
