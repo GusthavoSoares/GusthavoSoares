@@ -3,7 +3,7 @@
 - Passionate about data science, machine learning, programming and languages
 
 ## Education 🏫
-- Postgraduate Specialization in Data Analytics | FIAP | 03/2026 - 11/2026 
+- Postgraduate Specialization in Data Analytics | FIAP | 03/2026 - 01/2027 
 - Technologist in Systems Analysis and Development | FADERGS | 08/2023 - 12/2025 | Graduated
 - Bachelor’s Degree in Software Engineering | Estácio | 01/2023 - 12/2026
 
