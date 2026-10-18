@@ -1,14 +1,11 @@
 ## Hi there, I'm Gusthavo Soares👋
-- Power BI Analyst at Interop
+- Data Analyst at Interop
 - Passionate about data science, machine learning, programming and languages
 
 ## Education 🏫
 - Postgraduate Specialization in Data Analytics | FIAP | 03/2026 - 01/2027
 - Bachelor’s Degree in Software Engineering | Estácio | 01/2023 - 12/2026
 - Technologist in Systems Analysis and Development | FADERGS | 08/2023 - 12/2025 | Graduated
-
-
-
 
 ##  ☎️ Contact
 <div>
@@ -18,5 +15,5 @@
 </div>
 
 ## 💻 Tools and Languages
-Python, AWS, GCP, n8n, Pentaho, Qlik Sense, Power BI, SQL and NoSQL
+- Python, Cloud, DBT, Pyspark, Power BI, Apache Airflow and Docker
   
